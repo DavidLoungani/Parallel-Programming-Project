@@ -1,0 +1,56 @@
+Environmental_policy_in_China 1.0 
+Ebola_virus_disease 1.0 
+A*_search_algorithm 1.0 
+Airbus_A380 1.0 Air_Force_One
+Enrique_Iglesias 1.0 
+Enzyme 1.0 
+Academy_Award_for_Best_Picture 1.0 English_language,Academy_Awards,Academy_Award_for_Best_Actor
+Everton_F.C. 1.0 England
+Application_software 1.0 Enterprise_resource_planning
+Entrepreneurship 1.0 
+Easter 1.0 Earth_Day
+Acute_radiation_syndrome 1.0 
+Ecuador 1.0 Ecosystem
+Application_programming_interface 1.0 Apple_Inc.
+Air_pollution 1.0 Earth,Air_conditioning,Egypt,Energy
+Academy_Award_for_Best_Actor 1.0 Academy_Awards,Academy_Award_for_Best_Picture
+EastEnders 1.0 English_language
+African_American 1.0 English_language
+Eye_color 1.0 Africa
+EBay 1.0 Apple_Inc.
+Academy_Awards 1.0 Academy_Award_for_Best_Picture,Easter,Academy_Award_for_Best_Actor
+Apache_Hadoop 1.0 
+Ecosystem 1.0 Energy,Earth,Africa,Earth_Day
+East_India_Company 1.0 
+Apple_Inc. 1.0 EBay
+Earthquake 1.0 Earth
+Eastern_Screech_Owl 1.0 
+ASAP_Rocky 1.0 Apple_Inc.
+Aphrodite 1.0 Easter
+Evolution 1.0 Ecosystem,Earth,Enzyme
+Apartheid 1.0 English_language
+Economics 1.0 Entropy
+Enterprise_resource_planning 1.0 
+Air_Force_One 1.0 Airbus_A380
+E-commerce 1.0 EBay
+Encyclopedia 1.0 
+England 1.0 English_language,East_India_Company,Evolution,Economics,England_national_football_team
+Eeny,_meeny,_miny,_moe 1.0 English_language,African_American
+Earth_Day 1.0 Africa,Easter
+Easter_Island 1.0 Easter
+Egyptian_pyramids 1.0 Egypt
+Economy_of_India 1.0 East_India_Company
+Apple 1.0 Apple_Inc.,Aphrodite
+Egypt 1.0 Egyptian_pyramids,Africa,English_language,Easter
+Ejaculation 1.0 
+Africa 1.0 Egypt,Earth,Evolution,English_language
+English_language 1.0 
+Acetic_acid 1.0 
+AK-47 1.0 
+Entropy 1.0 Energy,Evolution
+England_national_football_team 1.0 England,Everton_F.C.
+Earth 1.0 Ecuador,Earthquake,Africa,Evolution,Ecosystem,Earth_Day,Energy
+Air_conditioning 1.0 Entropy
+ASCII 1.0 
+Energy 1.0 Ecosystem,Entropy,Enzyme,Earthquake,Earth,Air_pollution
+Everyday_Robots 1.0 
